@@ -22,7 +22,7 @@ Quality, latency and cost gates in front of every model rollout, with canary tra
 **[K-Query](https://github.com/maruthisai25/K_Query)** — Slack-native DevOps agent for Kubernetes
 Private LLM inference, Qdrant vector search over runbooks and FAQs, and live kubectl + Prometheus queries behind a `/devops` slash command. Ships with production Kubernetes manifests: HPA, RBAC, NetworkPolicy, ServiceMonitor.
 
-**[AWS Education Platform](https://github.com/maruthisai25/AWS_Health_App)** — Cloud-native platform, end-to-end in Terraform
+**[AWS Education Platform](https://github.com/maruthisai25/aws-education-platform)** — Cloud-native platform, end-to-end in Terraform
 Cognito authentication, AppSync + DynamoDB real-time chat, Elastic Transcoder video delivery, Aurora PostgreSQL, WAF/IAM/KMS, and CloudWatch/CloudTrail/X-Ray observability.
 
 ### Toolbox
